@@ -31,6 +31,6 @@ Run the Build Docker image:
     
 Open the GraphQL API:
 
-[localhost:4000](http://localhost:4000)
+   [http://localhost:4000](http://localhost:4000)
     
     
