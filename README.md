@@ -28,3 +28,7 @@ Build Dockerfile to create image:
 Run the Build Docker image:     
 
     docker run -d -p 4000:4000 graphql-api
+    
+Open the GraphQL API:
+    
+    http://localhost:4000
