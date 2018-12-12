@@ -19,10 +19,6 @@ CD into the project :
     
 Build Dockerfile to create image: 
 
-    docker build -t graphQL-API .
-    
-Build Dockerfile to create image: 
-
     docker build -t graphql-api .    
     
 Run the Build Docker image:     
