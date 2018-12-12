@@ -32,7 +32,7 @@ Open the GraphQL API:
 
 ## Assignments
 
-Some tasks for you ..
+You are going to perform some GraphQL actions. Please click on the green button which is located on the right side of your window. Now you should see a collection of queries, mutations etc. This is the information windows which allows you to check what the API is offering you. You should use this window during the followig assignments (This will help you). 
 
 ### Assignment 1
 
