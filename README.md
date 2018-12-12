@@ -29,4 +29,52 @@ Open the GraphQL API:
 
    [http://localhost:4000](http://localhost:4000)
     
-    
+
+## Assignments
+
+Some tasks for you ..
+
+### Assignment 1
+
+Please display all users with their name, email and ID
+
+### Assignment 2
+
+Please create a user with your Name, Fontys mail and age.
+Tipp: Please note your user ID which you will get back from the database for further assignments
+
+### Assignment 3
+Please display again **all** users with their name, email and ID and 
+verify that your user is there. 
+
+### Assignment 4
+Please display **your** specific user with **your** name, email and ID to
+verify that your user is there.
+
+### Assignment 5
+Please delete **all** users which are not students at the Fontys.
+Tipp: You should the userID to delete an user.
+
+### Assignment 6
+Please display again **all** users with their name, email and ID and 
+verify that you deleted all not fontys users.
+
+### Assignment 7
+Please display the name and **all** posts of the user **Ajeet Sandu**.
+Tipp: For this assignment the tipp is **undefined**  :stuck_out_tongue_closed_eyes: 
+
+### Assignment 8
+Now, you want to post something. A post has a title and a body. Please write 
+something nice (or maybe not so nice). Please create at least **2 posts**.
+Tipp: You could create a post with your userID. You will get a true, if everything is ok.
+
+### Assignment 9
+Now, check the posts of your account. You should see more now.
+
+### Assignment 10
+You reached the end of this workshop. You can play with the GraphQL API and get a feeling of the queries and functions. Thank you for participating.
+
+
+
+
+
